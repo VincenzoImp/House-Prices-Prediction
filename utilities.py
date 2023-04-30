@@ -4,6 +4,8 @@ import pandas as pd
 import numpy as np
 import networkx as nx
 import os
+from matplotlib import colors
+
 
 def boolMapping(b):
     if b == True:
@@ -135,3 +137,22 @@ def groupby_count_percentage(df, col):
     tmp = tmp.groupby(col).count().reset_index().sort_values('count', ascending=False).reset_index(drop=True)
     tmp['percentage'] = (tmp['count']*100)/df.shape[0]
     return tmp
+
+def get_hist(df, feature, min_value=None, max_value=None, b=100):
+    df = df.dropna(subset=[feature]).reset_index(drop=True)
+    if min_value == None:
+        min_value = df[feature].min()
+    if max_value == None:
+        max_value = df[feature].max()
+    tmp = df[df[feature] >= min_value]
+    tmp = tmp[tmp[feature] <= max_value]
+    plt.hist(tmp.loc[:, feature], bins=b)
+    plt.title('histogram distribution of {} (min_value: {}, max_value: {}, bins: {})'.format(feature, min_value, max_value, b))
+    plt.show()
+    plt.close()
+    plt.hist2d(pd.Series(np.array([i for i in range(tmp.loc[:, feature].shape[0])])), tmp.loc[:, feature], bins=b, norm = colors.LogNorm())
+    plt.title('2D histogram distribution of {} (min_value: {}, max_value: {}, bins: {})'.format(feature, min_value, max_value, b))
+    plt.colorbar()
+    plt.show()
+    plt.close()
+    return
