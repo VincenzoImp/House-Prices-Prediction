@@ -136,7 +136,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 29101,,Ottimo / Ristrutturato,,41.73011398,12.28907681,,50.0,4.0,,1.0,1.0,6.0,3.0,0.835804766913763,90.0
 33849,,Buono stato / Abitabile,1960.0,45.496644,9.229635,,50.0,4.0,True,1.0,1.0,,2.0,1.0,36.0
 28761,,Da ristrutturare,1960.0,45.4772,12.2065,3.51,20.0,0.0,,1.0,,2.0,3.0,1.0,72.0
-15564,,Ottimo / Ristrutturato,1970.0,45.4556,9.1568,230.17,300.0,2.0,True,2.0,1.0,5.0,4.0,1.0,185.0
 4643,True,Da ristrutturare,1980.0,41.9077,12.7109,175.0,,0.0,True,2.0,,1.0,5.0,1.0,270.0
 18859,True,Nuovo / Nuova costruzione,1960.0,41.866,12.4427,175.0,100.0,2.0,,1.0,1.0,466.0,5.0,1.0,124.0
 17707,True,Ottimo / Ristrutturato,1800.0,45.4772,9.1814,175.0,500.0,5.0,True,3.0,1.0,5.0,4.0,1.0,270.0
@@ -183,7 +182,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 14182,True,Ottimo / Ristrutturato,1950.0,41.9136,12.4513,175.0,,5.0,,3.0,1.0,8.0,3.0,1.0,100.0
 49678,True,Buono stato / Abitabile,1960.0,41.875562,12.579014,,50.0,3.0,,1.0,,,3.0,1.0,66.0
 59068,,Buono stato / Abitabile,2012.0,41.850582,12.437891,,100.0,-1.0,,2.0,1.0,,4.0,1.0,110.0
-27298,True,Buono stato / Abitabile,1950.0,45.4807,9.2063,321.98,160.0,2.0,True,1.0,,3.0,3.0,1.0,100.0
 23930,True,Da ristrutturare,1965.0,41.878623,12.427723,,,1.0,True,2.0,1.0,,4.0,1.0,146.0
 36392,True,Ottimo / Ristrutturato,2010.0,41.974,12.5319,175.0,90.0,-2.0,True,3.0,1.0,4.0,5.0,1.0,188.0
 59467,True,Da ristrutturare,1965.0,41.8847,12.4233,3.51,80.0,3.0,,1.0,1.0,4.0,3.0,1.0,95.0
@@ -344,13 +342,11 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 51536,True,Buono stato / Abitabile,2000.0,45.4506,9.119,172.0,1.0,0.0,True,2.0,,3.0,5.0,1.0,150.0
 15047,True,Buono stato / Abitabile,2000.0,45.448863,9.148043,,83.0,2.0,True,1.0,1.0,,2.0,1.0,55.0
 22500,True,Buono stato / Abitabile,,45.473933,9.226182,,125.0,3.0,True,1.0,1.0,,2.0,1.0,50.0
-33793,,Buono stato / Abitabile,1970.0,41.7371,12.2705,175.0,50.0,5.0,,1.0,1.0,5.0,2.0,0.818840711092487,60.0
 8303,True,Nuovo / Nuova costruzione,1961.0,45.43571,12.352213,,100.0,1.0,,2.0,,,4.0,1.0,117.0
 14660,,Buono stato / Abitabile,2012.0,41.9118,12.5719,175.0,,7.0,,1.0,1.0,11.0,1.0,1.0,40.0
 27556,,Da ristrutturare,,41.8996,12.487,,0.0,,,,,,5.0,1.0,500.0
 35476,,Ottimo / Ristrutturato,1980.0,45.4602,9.1819,145.05,150.0,1.0,,1.0,1.0,6.0,1.0,1.0,35.0
 16802,,,,41.8648,12.4787,175.0,,1.0,,,1.0,5.0,3.0,1.0,70.0
-47018,True,,,41.9446,12.4417,168.94,,0.0,,1.0,,6.0,2.0,1.0,
 35222,,Buono stato / Abitabile,1700.0,41.832591,12.539441,,,,,5.0,,,4.0,1.0,445.0
 37892,,Buono stato / Abitabile,,45.4273471,12.3600285,175.0,,-1.0,,1.0,0.0,,1.0,1.0,50.0
 65556,,,,41.8834,12.5356,,47.0,2.0,,1.0,1.0,,3.0,1.0,85.0
@@ -685,7 +681,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 33025,True,Buono stato / Abitabile,1967.0,45.52104,9.151374,,,3.0,,1.0,1.0,,2.0,1.0,69.0
 29285,True,Da ristrutturare,1976.0,41.8249,12.4591,,0.0,2.0,True,2.0,1.0,3.0,5.0,1.0,190.0
 29536,True,Buono stato / Abitabile,,41.8655646,12.5519991,175.0,,7.0,,1.0,1.0,,3.0,1.0,75.0
-21311,True,Ottimo / Ristrutturato,2014.0,41.8851,12.6588,175.0,70.0,1.0,,1.0,1.0,3.0,2.0,1.0,62.0
 48832,True,Ottimo / Ristrutturato,1977.0,41.7389,12.2679,175.0,100.0,4.0,,2.0,1.0,5.0,3.0,0.8183236738456664,82.0
 24734,True,Buono stato / Abitabile,1960.0,41.8866,12.6164,175.0,40.0,1.0,,1.0,,3.0,2.0,1.0,65.0
 31926,,Buono stato / Abitabile,,45.4392475,12.3404225,175.0,,1.0,,1.0,0.0,,3.0,1.0,58.0
@@ -798,7 +793,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 9408,True,Buono stato / Abitabile,1978.0,41.7909,12.3733,175.0,0.0,1.0,,1.0,,2.0,3.0,1.0,120.0
 48793,,Buono stato / Abitabile,1960.0,41.8698,12.4433,1.0,,3.0,,1.0,1.0,5.0,2.0,1.0,120.0
 21583,True,Da ristrutturare,1970.0,41.8657,12.4654,175.0,1.0,3.0,,2.0,1.0,7.0,5.0,1.0,140.0
-16300,True,Nuovo / Nuova costruzione,1965.0,41.933261,12.521333,,,3.0,,1.0,1.0,,3.0,1.0,71.0
 56774,,Buono stato / Abitabile,1945.0,45.4381,9.1929,175.0,60.0,1.0,True,1.0,,4.0,2.0,1.0,52.0
 31243,True,Buono stato / Abitabile,,45.4635723,9.1518106,142.72,,3.0,,3.0,1.0,,4.0,1.0,135.0
 53221,True,Ottimo / Ristrutturato,2014.0,41.9538,12.4789,175.0,540.0,0.0,True,,,4.0,5.0,1.0,620.0
@@ -922,7 +916,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 35067,True,Da ristrutturare,,42.0089,12.3735,175.0,,0.0,True,,,4.0,5.0,1.0,350.0
 46685,True,Buono stato / Abitabile,1960.0,41.8976,12.5554,175.0,80.0,3.0,True,2.0,1.0,9.0,4.0,1.0,93.0
 55137,True,Ottimo / Ristrutturato,1970.0,41.9423,12.4749,175.0,200.0,6.0,,1.0,1.0,6.0,3.0,1.0,94.0
-15352,True,Buono stato / Abitabile,1930.0,45.48451996,9.20549965,175.0,,3.0,,1.0,,1.0,4.0,1.0,126.0
 26228,,Buono stato / Abitabile,1900.0,45.4393,12.3253,175.0,0.0,2.0,,1.0,,3.0,4.0,1.0,105.0
 55352,True,Nuovo / Nuova costruzione,2022.0,45.494237,9.133548,,150.0,4.0,True,2.0,1.0,,3.0,1.0,125.0
 52333,True,Da ristrutturare,1960.0,45.4699,9.1393,135.63,250.0,2.0,True,1.0,1.0,6.0,2.0,1.0,60.0
@@ -1134,7 +1127,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 46793,,Ottimo / Ristrutturato,1995.0,41.7392,12.3825,3.51,0.0,1.0,True,3.0,,3.0,5.0,1.0,220.0
 23967,True,Buono stato / Abitabile,1954.0,41.9103,12.5357,175.0,57.0,4.0,,1.0,1.0,7.0,2.0,1.0,77.0
 55216,True,Buono stato / Abitabile,1980.0,41.8417,12.5513,170.0,,1.0,,1.0,,1.0,2.0,1.0,30.0
-22748,,Buono stato / Abitabile,1996.0,41.83927917,12.4878397,,70.0,4.0,True,1.0,1.0,8.0,2.0,1.0,80.0
 2965,True,Ottimo / Ristrutturato,1980.0,45.4428,9.1572,175.0,75.0,1.0,,1.0,1.0,7.0,2.0,1.0,50.0
 25005,True,Da ristrutturare,1300.0,41.894207,12.48979,,1200.0,1.0,,3.0,,,7.0,1.0,150.0
 20283,,Da ristrutturare,1960.0,45.4386,9.22744,247.0,100.0,0.0,,1.0,1.0,8.0,2.0,1.0,65.0
@@ -1894,7 +1886,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 6972,True,Ottimo / Ristrutturato,1960.0,41.8474,12.427,123.0,36.0,1.0,,1.0,,3.0,3.0,1.0,80.0
 47344,,Buono stato / Abitabile,,45.4433,9.1763,175.0,,3.0,True,1.0,1.0,3.0,3.0,1.0,60.0
 7841,True,Buono stato / Abitabile,1980.0,41.7849,12.3238,175.0,0.0,1.0,True,2.0,,1.0,5.0,1.0,180.0
-10827,True,Buono stato / Abitabile,1980.0,41.7668,12.3581,175.0,60.0,3.0,,1.0,1.0,4.0,2.0,1.0,55.0
 30221,True,Buono stato / Abitabile,1940.0,41.8761,12.5079,175.0,200.0,3.0,True,1.0,1.0,5.0,3.0,1.0,90.0
 44663,,Buono stato / Abitabile,1980.0,41.9906,12.4035,99.0,40.0,0.0,True,1.0,,2.0,3.0,1.0,65.0
 54546,True,Buono stato / Abitabile,,45.4553,9.1805,175.0,200.0,1.0,,2.0,1.0,5.0,3.0,1.0,95.0
@@ -2780,7 +2771,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 35333,True,Nuovo / Nuova costruzione,2023.0,45.5071,9.2354,175.0,0.0,2.0,True,2.0,1.0,2.0,3.0,1.0,118.0
 8024,True,Ottimo / Ristrutturato,,41.8441,12.4763,,,5.0,,1.0,1.0,5.0,2.0,1.0,48.0
 56083,,Buono stato / Abitabile,,41.9005,12.4675,175.0,85.0,1.0,,2.0,,4.0,5.0,1.0,100.0
-13750,True,Ottimo / Ristrutturato,1958.0,45.45381165,9.157799720000002,112.0,192.0,5.0,,1.0,1.0,7.0,3.0,1.0,90.0
 11609,True,Nuovo / Nuova costruzione,2021.0,45.516,9.192,3.51,100.0,6.0,,,1.0,6.0,5.0,1.0,218.0
 29108,True,Buono stato / Abitabile,1939.0,41.8751,12.527193,,40.0,5.0,,1.0,1.0,,2.0,1.0,68.0
 53560,True,Nuovo / Nuova costruzione,1970.0,42.012861,12.378799,,50.0,1.0,,1.0,,,4.0,1.0,100.0
@@ -3634,7 +3624,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 22754,,Buono stato / Abitabile,,45.5334,12.1807,,60.0,2.0,,1.0,,3.0,3.0,0.730328566014194,85.0
 31300,True,Buono stato / Abitabile,1960.0,45.504783,9.246351,,300.0,7.0,,2.0,1.0,,5.0,1.0,156.0
 50868,True,Buono stato / Abitabile,1960.0,45.5114,9.179,218.3,125.0,1.0,True,1.0,1.0,9.0,2.0,1.0,50.0
-48574,,Buono stato / Abitabile,1960.0,45.452482,9.160362,,110.0,1.0,,1.0,,,2.0,1.0,61.0
 27404,True,Nuovo / Nuova costruzione,,41.981158,12.418133,,,-1.0,True,1.0,,,2.0,1.0,65.0
 7416,True,Nuovo / Nuova costruzione,2022.0,45.4935,12.2822,,,0.0,True,2.0,,,4.0,1.0,171.0
 21825,True,Ottimo / Ristrutturato,1975.0,41.9937,12.4061,99.0,50.0,0.0,True,1.0,1.0,3.0,3.0,1.0,60.0
@@ -3701,7 +3690,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 13608,True,Buono stato / Abitabile,1980.0,41.8995,12.4355,175.0,90.0,2.0,True,1.0,1.0,5.0,3.0,1.0,90.0
 54015,True,Buono stato / Abitabile,1980.0,42.039465,12.309698,,,1.0,True,2.0,,,3.0,0.933440828733729,110.0
 21175,,Buono stato / Abitabile,,45.443019,12.324946,,,4.0,,2.0,,,5.0,1.0,120.0
-31573,True,Nuovo / Nuova costruzione,2021.0,41.7776,12.3328,175.0,50.0,2.0,,2.0,,5.0,4.0,1.0,90.0
 41632,True,Nuovo / Nuova costruzione,,41.9764379,12.4138571,92.0,,1.0,,2.0,1.0,,3.0,1.0,80.0
 13746,True,Buono stato / Abitabile,1965.0,45.492315,12.251069,,,,True,3.0,,,5.0,1.0,250.0
 47816,True,Buono stato / Abitabile,,45.4628589,9.1283009,290.7,,5.0,,1.0,1.0,,3.0,1.0,90.0
@@ -3870,7 +3858,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 54567,True,Buono stato / Abitabile,,41.9749095,12.4407042,175.0,,2.0,,2.0,0.0,,3.0,1.0,90.0
 16559,,Buono stato / Abitabile,,41.88071,12.347671,,,,,1.0,,,4.0,1.0,74.0
 32083,True,Nuovo / Nuova costruzione,2022.0,41.9279,12.5746,3.51,0.0,0.0,True,,1.0,5.0,,1.0,45.0
-53546,True,Da ristrutturare,,41.9246,12.5133,175.0,150.0,1.0,,2.0,1.0,5.0,4.0,1.0,135.0
 54280,,Ottimo / Ristrutturato,1930.0,45.466,9.2107,249.0,100.0,4.0,,1.0,1.0,5.0,2.0,1.0,45.0
 11115,True,Buono stato / Abitabile,1970.0,41.8465,12.6288,123.74,0.0,1.0,True,1.0,,2.0,3.0,1.0,66.0
 1015,True,Buono stato / Abitabile,,41.7322483,12.3738503,,,4.0,,1.0,1.0,,2.0,1.0,55.0
@@ -4119,7 +4106,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 31828,True,Buono stato / Abitabile,1950.0,45.436918,9.21277,,100.0,4.0,True,1.0,1.0,,1.0,1.0,35.0
 36221,True,Ottimo / Ristrutturato,1970.0,41.86798096,12.40867996,,65.0,2.0,True,2.0,1.0,4.0,5.0,1.0,140.0
 54348,True,Nuovo / Nuova costruzione,1957.0,41.87103,12.445552,,65.0,4.0,,1.0,1.0,,2.0,1.0,70.0
-2182,True,Buono stato / Abitabile,1936.0,41.9282,12.4841,175.0,266.0,3.0,True,2.0,1.0,5.0,5.0,1.0,220.0
 23739,True,Da ristrutturare,1975.0,41.8858,12.5692,175.0,70.0,2.0,,2.0,1.0,5.0,3.0,1.0,133.0
 65829,True,Da ristrutturare,1950.0,45.466173,9.138938,,,2.0,,1.0,,,2.0,1.0,75.0
 51583,True,,1985.0,41.7501,12.3668,175.0,0.0,0.0,True,,,2.0,5.0,1.0,330.0
@@ -4446,7 +4432,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 65514,,Buono stato / Abitabile,,45.4932,12.236,97.01,,1.0,,1.0,1.0,3.0,4.0,1.0,90.0
 53678,True,Buono stato / Abitabile,1975.0,41.909653,12.398237,,120.0,5.0,True,2.0,1.0,,5.0,1.0,140.0
 44158,True,Da ristrutturare,,45.4502385,12.3517332,175.0,,1.0,,2.0,0.0,,5.0,1.0,290.0
-48584,,Buono stato / Abitabile,1960.0,45.468552,9.236501,,,-1.0,True,1.0,1.0,,2.0,1.0,55.0
 45185,True,Ottimo / Ristrutturato,,41.8759,12.7003,175.0,0.0,1.0,,1.0,,2.0,3.0,1.0,70.0
 2040,True,Da ristrutturare,,45.4662,9.0929,227.35,0.0,0.0,True,1.0,,2.0,5.0,1.0,213.0
 3587,True,Da ristrutturare,1960.0,45.445952,9.24426,,200.0,4.0,,1.0,,,3.0,1.0,78.0
@@ -4578,7 +4563,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 47522,True,,1970.0,45.4822,12.2378,,,6.0,,1.0,1.0,10.0,2.0,1.0,95.0
 65390,True,Buono stato / Abitabile,1964.0,41.9105,12.5458,175.0,,1.0,,1.0,1.0,7.0,2.0,1.0,72.0
 28335,True,Buono stato / Abitabile,1970.0,45.474,9.107,175.0,273.0,5.0,True,1.0,1.0,5.0,3.0,1.0,106.0
-63399,True,Buono stato / Abitabile,1987.0,45.447429,12.324304,,,-1.0,,2.0,,,6.0,1.0,130.0
 48626,,Buono stato / Abitabile,1930.0,41.8967,12.5138,175.0,65.0,3.0,,1.0,1.0,4.0,2.0,1.0,60.0
 52121,,Buono stato / Abitabile,1990.0,41.8629,12.6878,175.0,,,,1.0,,,2.0,1.0,45.0
 18582,True,Da ristrutturare,2004.0,41.8284,12.3934,175.0,,1.0,,2.0,1.0,5.0,3.0,1.0,85.0
@@ -4635,7 +4619,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 16780,,Ottimo / Ristrutturato,1970.0,45.4804,12.2859,170.58,83.0,,True,2.0,,,5.0,1.0,110.0
 47957,True,Buono stato / Abitabile,,41.9483,12.4477,113.3,,3.0,,2.0,,4.0,3.0,1.0,
 16413,True,Buono stato / Abitabile,1945.0,45.4957,9.2208,175.0,90.0,0.0,True,1.0,,2.0,4.0,1.0,127.0
-9356,,Ottimo / Ristrutturato,,41.8799,12.5375,,,4.0,,1.0,,4.0,2.0,1.0,62.0
 23776,,Nuovo / Nuova costruzione,,45.447431,9.181695,,50.0,-1.0,,1.0,,,3.0,1.0,68.0
 59572,True,Ottimo / Ristrutturato,1940.0,41.8654,12.4691,175.0,30.0,1.0,,1.0,1.0,5.0,3.0,1.0,86.0
 35373,True,Buono stato / Abitabile,1960.0,45.4852,12.2132,,70.0,4.0,,1.0,,4.0,4.0,1.0,126.0
@@ -4743,7 +4726,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 31747,,Ottimo / Ristrutturato,,41.85874176,12.4499197,,,1.0,True,1.0,1.0,5.0,2.0,1.0,50.0
 30918,,Nuovo / Nuova costruzione,2020.0,45.514856,12.19952,,,,,2.0,,,7.0,0.8649824308954315,150.0
 1009,True,Buono stato / Abitabile,1800.0,41.9019,12.5059,175.0,,1.0,True,1.0,,5.0,2.0,1.0,77.0
-22980,True,Buono stato / Abitabile,1966.0,41.9055,12.395,61.39,15.0,1.0,,1.0,,2.0,2.0,1.0,60.0
 15844,True,Ottimo / Ristrutturato,2008.0,41.8075,12.4319,3.51,120.0,3.0,True,1.0,1.0,3.0,3.0,1.0,120.0
 14789,True,Buono stato / Abitabile,1970.0,45.49887,9.10372,,180.0,-1.0,,1.0,1.0,,2.0,0.9977192249256616,65.0
 11010,True,Buono stato / Abitabile,1966.0,45.496245,9.118825,,200.0,5.0,,1.0,1.0,,3.0,1.0,85.0
@@ -5056,7 +5038,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 30992,True,Buono stato / Abitabile,,41.730007,12.2939967,175.0,,1.0,,1.0,1.0,,3.0,0.844900831745925,104.0
 30080,,Buono stato / Abitabile,1990.0,45.4588,9.2412,175.0,250.0,6.0,,1.0,1.0,6.0,2.0,1.0,50.0
 37917,True,Ottimo / Ristrutturato,,45.4371109,12.33001995,,,1.0,,2.0,,,2.0,1.0,65.0
-63658,,Ottimo / Ristrutturato,1890.0,45.4482,9.1795,73.0,95.0,3.0,True,1.0,,3.0,3.0,1.0,83.0
 47563,,Buono stato / Abitabile,1900.0,41.9096,12.459,175.0,70.0,3.0,,1.0,1.0,5.0,4.0,1.0,130.0
 34492,True,Buono stato / Abitabile,1985.0,41.7955,12.4256,196.73,0.0,0.0,True,,,2.0,5.0,1.0,315.0
 860,,Buono stato / Abitabile,1960.0,41.878,12.5107,175.0,64.0,6.0,,2.0,1.0,6.0,5.0,1.0,160.0
@@ -5144,13 +5125,10 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 54147,True,Nuovo / Nuova costruzione,,45.46847,9.139207,,,7.0,,2.0,1.0,,3.0,1.0,95.0
 54327,True,Da ristrutturare,1970.0,45.508733,12.255371,,230.0,3.0,,1.0,1.0,,5.0,1.0,110.0
 57059,True,Ottimo / Ristrutturato,1965.0,45.4566,9.2423,285.88,125.0,2.0,True,1.0,1.0,4.0,1.0,1.0,25.0
-36185,,Buono stato / Abitabile,,45.486289,9.15832,,90.0,-1.0,,1.0,1.0,,2.0,1.0,50.0
 23846,,Nuovo / Nuova costruzione,2021.0,45.5117,12.2616,12.0,0.0,1.0,,3.0,,,5.0,1.0,200.0
-2463,True,Ottimo / Ristrutturato,1985.0,41.7842,12.4411,125.0,70.0,6.0,,2.0,1.0,8.0,4.0,1.0,110.0
 56328,,Nuovo / Nuova costruzione,,41.905994,12.503613,,,3.0,,3.0,1.0,,9.0,1.0,290.0
 63771,,Buono stato / Abitabile,1975.0,41.9149,12.4588,,,1.0,,2.0,1.0,5.0,5.0,1.0,200.0
 33554,True,Buono stato / Abitabile,1970.0,41.9,12.4267,175.0,0.0,3.0,,1.0,1.0,4.0,3.0,1.0,95.0
-3782,True,Buono stato / Abitabile,,45.4965478,9.1740454,158.54,,1.0,,1.0,1.0,,3.0,1.0,90.0
 43794,,Ottimo / Ristrutturato,,45.4858,12.2169,,0.0,3.0,,1.0,,3.0,2.0,1.0,50.0
 61461,True,Ottimo / Ristrutturato,1970.0,45.4671,9.2018,175.0,500.0,5.0,,2.0,1.0,8.0,3.0,1.0,120.0
 41653,True,Buono stato / Abitabile,1996.0,41.7725,12.3779,175.0,166.0,4.0,True,2.0,1.0,4.0,3.0,1.0,108.0
@@ -5542,7 +5520,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 21486,True,Da ristrutturare,1975.0,41.9491,12.5167,175.0,,2.0,True,2.0,1.0,5.0,4.0,1.0,130.0
 55115,True,Buono stato / Abitabile,1960.0,45.46873,9.134357,,210.0,2.0,,1.0,1.0,,3.0,1.0,118.0
 29783,True,Nuovo / Nuova costruzione,,45.5050256,9.2419179,3.5,,2.0,,1.0,1.0,,3.0,1.0,75.0
-13379,True,Da ristrutturare,1918.0,41.9199,12.506,175.0,270.0,1.0,True,,1.0,5.0,5.0,1.0,497.0
 50583,,Buono stato / Abitabile,1985.0,41.7947,12.4685,,0.0,0.0,,2.0,,2.0,2.0,1.0,55.0
 1794,True,Da ristrutturare,1950.0,41.884,12.5118,,54.0,4.0,,2.0,1.0,8.0,5.0,1.0,148.0
 58429,True,Nuovo / Nuova costruzione,2022.0,41.950227,12.317701,,,,True,2.0,,,5.0,1.0,140.0
@@ -6324,7 +6301,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 59681,True,Ottimo / Ristrutturato,1960.0,45.4737,9.1587,,550.0,2.0,,2.0,1.0,5.0,5.0,1.0,225.0
 22415,True,Nuovo / Nuova costruzione,1950.0,45.465735,9.185285,,350.0,2.0,True,2.0,1.0,,2.0,1.0,110.0
 17349,True,Buono stato / Abitabile,1950.0,45.4947,9.1538,120.0,183.0,1.0,True,1.0,1.0,5.0,2.0,1.0,76.0
-12320,True,Ottimo / Ristrutturato,1968.0,41.93769836,12.44250965,150.0,380.0,2.0,True,3.0,1.0,4.0,5.0,1.0,210.0
 60234,,Ottimo / Ristrutturato,1960.0,45.51002121,9.17531013,3.0,130.0,4.0,,1.0,1.0,4.0,1.0,1.0,35.0
 55557,True,Nuovo / Nuova costruzione,,41.85356,12.568588,,,4.0,,2.0,1.0,,8.0,1.0,145.0
 23845,True,Ottimo / Ristrutturato,1970.0,45.432,9.20565,118.62,235.0,2.0,True,2.0,1.0,7.0,4.0,1.0,130.0
@@ -6497,7 +6473,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 16337,,Ottimo / Ristrutturato,1940.0,45.4623,9.23095,80.42,160.0,5.0,,1.0,1.0,5.0,2.0,1.0,50.0
 62438,True,Ottimo / Ristrutturato,1970.0,41.816,12.4921,175.5,50.0,2.0,,1.0,,3.0,3.0,1.0,114.0
 34520,True,Da ristrutturare,1960.0,45.5045,9.2388,175.0,0.0,3.0,True,1.0,1.0,3.0,2.0,1.0,55.0
-12988,True,Da ristrutturare,1961.0,41.926514,12.519994,,250.0,1.0,True,2.0,1.0,,5.0,1.0,147.0
 64386,True,Buono stato / Abitabile,2006.0,41.796871,12.456852,,75.0,1.0,,1.0,1.0,,2.0,1.0,60.0
 5888,True,Buono stato / Abitabile,1930.0,45.4999,9.224900000000002,,100.0,2.0,True,1.0,,2.0,2.0,1.0,60.0
 42914,True,Ottimo / Ristrutturato,,41.82439041,12.40270042,,70.0,1.0,True,1.0,,2.0,2.0,1.0,50.0
@@ -7385,7 +7360,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 34163,True,Nuovo / Nuova costruzione,2012.0,45.4865,12.2526,38.33,,3.0,,2.0,1.0,4.0,3.0,1.0,190.0
 55245,True,Buono stato / Abitabile,1960.0,45.467231,9.176513,,116.0,2.0,,1.0,1.0,,3.0,1.0,70.0
 30746,True,Nuovo / Nuova costruzione,1937.0,45.480182,9.200116,,850.0,3.0,,2.0,1.0,,4.0,1.0,250.0
-63152,,Buono stato / Abitabile,1990.0,41.768105,12.350922,,,-1.0,True,1.0,,,2.0,1.0,68.0
 22265,True,Buono stato / Abitabile,1967.0,45.443546,9.243906,,,4.0,,1.0,1.0,,2.0,1.0,56.0
 64245,True,Buono stato / Abitabile,,45.520352,9.134287,,,,,2.0,1.0,,5.0,1.0,78.0
 55080,True,Nuovo / Nuova costruzione,2020.0,45.5152,9.1924,,,2.0,True,1.0,1.0,4.0,2.0,1.0,78.0
@@ -8694,7 +8668,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 28737,True,Da ristrutturare,1960.0,45.5033,9.2416,141.0,140.0,2.0,,1.0,1.0,5.0,2.0,1.0,70.0
 11996,,Ottimo / Ristrutturato,1990.0,45.4472,12.3286,120.0,0.0,2.0,True,2.0,,3.0,4.0,1.0,110.0
 11854,True,Ottimo / Ristrutturato,2004.0,42.0104,12.5199,175.0,40.0,1.0,True,2.0,1.0,2.0,4.0,1.0,107.0
-43736,True,Nuovo / Nuova costruzione,,45.443339,12.328526,,,-1.0,,2.0,,,7.0,1.0,180.0
 37510,True,Buono stato / Abitabile,2000.0,45.513224,12.276118,,,,True,3.0,,,6.0,1.0,665.0
 52163,True,Buono stato / Abitabile,1960.0,45.4706,9.1536,175.0,400.0,4.0,,1.0,1.0,4.0,3.0,1.0,125.0
 49826,,Buono stato / Abitabile,,45.440343,12.336757,,,2.0,,2.0,,,8.0,1.0,200.0
@@ -9086,7 +9059,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 57013,,Buono stato / Abitabile,,41.8963,12.4919,175.0,,-1.0,,2.0,1.0,4.0,3.0,1.0,74.0
 63693,True,Buono stato / Abitabile,1960.0,41.8747,12.5422,175.0,0.0,1.0,,1.0,,1.0,1.0,1.0,35.0
 6486,,,,45.4425,12.3348,3.51,,3.0,,1.0,,3.0,4.0,1.0,90.0
-24565,,Da ristrutturare,,45.494402,12.231198,,,3.0,,1.0,,,4.0,1.0,85.0
 32322,,Ottimo / Ristrutturato,2007.0,45.4431,9.2309,175.0,444.0,1.0,,,,3.0,2.0,1.0,130.0
 52114,True,Buono stato / Abitabile,1965.0,41.886699,12.584138,,60.0,-1.0,,1.0,1.0,,2.0,1.0,55.0
 46321,True,Da ristrutturare,1964.0,41.8835,12.5371,175.0,75.0,1.0,,1.0,1.0,5.0,3.0,1.0,110.0
@@ -9220,7 +9192,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 5553,True,Ottimo / Ristrutturato,2015.0,45.4427,9.1715,27.95,65.0,5.0,True,1.0,1.0,6.0,2.0,1.0,60.0
 22144,True,Buono stato / Abitabile,,45.4404585,12.3401303,175.0,,1.0,,1.0,,,3.0,1.0,75.0
 15585,True,Ottimo / Ristrutturato,1950.0,45.4798,9.2365,119.71,250.0,3.0,,1.0,,5.0,3.0,1.0,100.0
-54579,,Ottimo / Ristrutturato,1960.0,45.4645,9.15436,224.41,120.0,1.0,,1.0,1.0,6.0,3.0,1.0,60.0
 58254,True,Buono stato / Abitabile,,41.9907004,12.3978491,175.0,,3.0,,2.0,1.0,,4.0,1.0,116.0
 44458,True,Ottimo / Ristrutturato,,45.48162079,9.23690033,173.0,180.0,1.0,True,1.0,1.0,6.0,2.0,1.0,50.0
 5563,True,Buono stato / Abitabile,1972.0,41.7991,12.4518,3.51,200.0,1.0,True,2.0,1.0,3.0,3.0,1.0,150.0
@@ -9414,7 +9385,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 1081,True,Buono stato / Abitabile,1960.0,41.944,12.5161,175.0,60.0,7.0,,1.0,1.0,7.0,3.0,1.0,95.0
 27576,True,Buono stato / Abitabile,1960.0,45.504405,9.172559,,167.0,-1.0,,1.0,1.0,,2.0,1.0,50.0
 6842,,Buono stato / Abitabile,,45.445556,12.3298,,,-1.0,,1.0,,,3.0,1.0,75.0
-914,True,Buono stato / Abitabile,1970.0,41.8716,12.5272,175.0,50.0,2.0,True,1.0,1.0,7.0,2.0,1.0,65.0
 2052,,Ottimo / Ristrutturato,1930.0,45.4531,9.2176,175.0,45.0,4.0,,1.0,1.0,4.0,1.0,1.0,20.0
 47994,True,Ottimo / Ristrutturato,1930.0,41.8729,12.4514,3.51,35.0,3.0,True,1.0,,4.0,2.0,1.0,66.0
 8902,True,Buono stato / Abitabile,1970.0,41.8086,12.4425,175.0,,3.0,,1.0,1.0,5.0,3.0,1.0,
@@ -9769,7 +9739,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 39982,True,Buono stato / Abitabile,,45.4934,12.2454,,333.0,6.0,,2.0,1.0,6.0,5.0,1.0,157.0
 9544,True,Buono stato / Abitabile,1958.0,45.520352,9.134287,,,1.0,,1.0,,,3.0,1.0,78.0
 42680,True,Da ristrutturare,,45.4455065,12.3245914,,,3.0,,1.0,0.0,,4.0,1.0,90.0
-42892,,Buono stato / Abitabile,1955.0,45.4624,9.10785,186.6,117.0,2.0,True,1.0,1.0,5.0,2.0,1.0,51.0
 37796,,Buono stato / Abitabile,1967.0,45.444847,9.263664,,,2.0,,1.0,1.0,,2.0,1.0,58.0
 5214,True,Buono stato / Abitabile,,41.8554817,12.4544998,,,1.0,,2.0,1.0,,3.0,1.0,111.0
 52395,True,Da ristrutturare,1960.0,45.4591,9.1299,175.0,,2.0,,1.0,1.0,8.0,3.0,1.0,100.0
@@ -9874,7 +9843,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 20415,True,Buono stato / Abitabile,,41.81649,12.445702,,140.0,6.0,,3.0,1.0,,1.0,1.0,180.0
 52061,True,Da ristrutturare,,45.4828,9.14636,3.51,200.0,2.0,,1.0,1.0,6.0,2.0,1.0,75.0
 52206,True,Buono stato / Abitabile,1963.0,45.450924,9.148669,,175.0,7.0,,1.0,1.0,,3.0,1.0,100.0
-57728,True,Ottimo / Ristrutturato,1984.0,41.8339,12.4911,140.0,24.0,1.0,,2.0,1.0,4.0,4.0,1.0,150.0
 31700,True,Ottimo / Ristrutturato,,45.5046,9.1897,131.26,160.0,4.0,True,1.0,1.0,10.0,3.0,1.0,70.0
 48321,,Nuovo / Nuova costruzione,1920.0,45.463329,9.229584,,60.0,1.0,,1.0,1.0,,2.0,1.0,60.0
 56975,True,Buono stato / Abitabile,,45.494895,9.163009,,,,,1.0,1.0,,1.0,1.0,29.0
@@ -10769,7 +10737,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 28818,True,Nuovo / Nuova costruzione,1960.0,45.4991,9.2101,3.51,150.0,4.0,True,1.0,1.0,6.0,3.0,1.0,59.0
 32895,True,Nuovo / Nuova costruzione,2019.0,41.861839,12.36278,,,,True,3.0,,,5.0,1.0,149.0
 35754,,Buono stato / Abitabile,1960.0,41.868316,12.466242,,,7.0,,2.0,1.0,,4.0,1.0,130.0
-18485,True,Ottimo / Ristrutturato,,41.8751,12.4114,175.0,,1.0,,1.0,,4.0,3.0,1.0,65.0
 7855,True,Ottimo / Ristrutturato,1970.0,45.4623,9.2023,175.0,106.0,2.0,,1.0,1.0,5.0,1.0,1.0,40.0
 37443,,Ottimo / Ristrutturato,,45.48033142,12.19481277,,0.0,1.0,True,2.0,,2.0,5.0,0.9887779908473222,250.0
 36336,True,Buono stato / Abitabile,1999.0,41.74126816,12.37545013,175.0,0.0,1.0,True,1.0,,1.0,2.0,1.0,40.0
@@ -10920,7 +10887,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 44643,True,Buono stato / Abitabile,,41.9358,12.5153,125.0,72.0,8.0,,1.0,1.0,8.0,3.0,1.0,91.0
 48204,,Buono stato / Abitabile,,45.4343769,12.3259898,270.0,,4.0,,1.0,0.0,,3.0,1.0,80.0
 52115,True,Buono stato / Abitabile,2000.0,41.7984,12.3745,175.0,0.0,0.0,True,2.0,,3.0,4.0,1.0,130.0
-63854,True,Da ristrutturare,1970.0,41.847,12.4922,175.0,92.0,1.0,,2.0,1.0,5.0,4.0,1.0,168.0
 53348,True,Da ristrutturare,,45.4702,9.15332,180.28,200.0,1.0,,2.0,1.0,5.0,3.0,1.0,100.0
 18927,True,Da ristrutturare,,45.4449234,12.3300869,,,1.0,,1.0,0.0,,4.0,1.0,111.0
 23256,True,Buono stato / Abitabile,,45.4797364,9.162538,175.0,,1.0,,2.0,1.0,,4.0,1.0,140.0
@@ -10995,7 +10961,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 2574,True,Ottimo / Ristrutturato,,41.7723,12.3055,175.0,0.0,1.0,True,3.0,,2.0,3.0,1.0,92.0
 33415,True,Ottimo / Ristrutturato,1972.0,41.8661,12.5296,175.0,80.0,3.0,True,2.0,1.0,4.0,3.0,1.0,120.0
 2713,True,Buono stato / Abitabile,2010.0,41.906188,12.69152,,45.0,-1.0,,2.0,,,3.0,1.0,75.0
-49792,True,Buono stato / Abitabile,,45.471309,9.260497,,,,,1.0,1.0,,2.0,1.0,63.0
 2257,,Buono stato / Abitabile,,45.445941,9.180538,,,,,1.0,,,2.0,1.0,146.0
 23616,True,Buono stato / Abitabile,1960.0,45.4854,12.2418,,400.0,1.0,,2.0,1.0,8.0,5.0,1.0,235.0
 39121,True,Buono stato / Abitabile,1967.0,45.511569,9.142722,,,3.0,,1.0,1.0,,2.0,1.0,68.0
@@ -12222,7 +12187,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 37465,True,Buono stato / Abitabile,1970.0,41.8438,12.4873,175.0,170.0,4.0,True,2.0,1.0,7.0,4.0,1.0,123.0
 8166,,Ottimo / Ristrutturato,1800.0,41.8891,12.4953,112.1,35.0,0.0,,1.0,,5.0,3.0,1.0,70.0
 1438,True,Da ristrutturare,1970.0,45.4804,9.161,175.0,800.0,8.0,,3.0,1.0,9.0,5.0,1.0,271.0
-21664,True,Ottimo / Ristrutturato,1800.0,45.4412,12.3375,175.0,1.0,1.0,True,1.0,,2.0,4.0,1.0,130.0
 41059,True,Buono stato / Abitabile,1965.0,45.4671,9.2323,175.0,190.0,3.0,,1.0,1.0,5.0,3.0,1.0,93.0
 57204,,Ottimo / Ristrutturato,1920.0,45.4844,9.1633,175.0,150.0,1.0,,1.0,1.0,4.0,2.0,1.0,66.0
 63858,True,Nuovo / Nuova costruzione,1960.0,45.476719,9.115524,,666.0,2.0,True,2.0,1.0,,4.0,1.0,150.0
@@ -13062,7 +13026,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 64502,True,Buono stato / Abitabile,,45.4347969,12.3366886,175.0,,2.0,,2.0,,,3.0,1.0,65.0
 12350,,Nuovo / Nuova costruzione,2021.0,45.4314,9.244700000000002,1.0,0.0,0.0,True,1.0,,1.0,2.0,1.0,55.0
 2623,True,Buono stato / Abitabile,1990.0,41.7352,12.294386,,60.0,-1.0,True,2.0,1.0,,3.0,0.8612534550015579,115.0
-21102,True,Buono stato / Abitabile,1960.0,41.8576,12.4592,159.08,60.0,4.0,True,1.0,1.0,5.0,3.0,1.0,73.0
 43391,True,Buono stato / Abitabile,1970.0,41.7358,12.2723,175.0,,4.0,,1.0,1.0,5.0,3.0,0.8189911042102819,115.0
 43866,True,Buono stato / Abitabile,1500.0,41.891782,12.470226,,,2.0,,2.0,,,3.0,1.0,90.0
 56367,,Buono stato / Abitabile,2012.0,41.7648,12.3394,175.0,0.0,0.0,True,2.0,,2.0,5.0,1.0,215.0
@@ -13307,7 +13270,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 3141,True,Buono stato / Abitabile,,41.8934,12.4735,3.51,,4.0,,1.0,,5.0,3.0,1.0,60.0
 64459,,Ottimo / Ristrutturato,1920.0,45.4975,9.2252,175.0,80.0,3.0,True,1.0,,3.0,2.0,1.0,60.0
 37566,,Ottimo / Ristrutturato,1930.0,45.4941,9.2271,175.0,75.0,3.0,,1.0,1.0,5.0,2.0,1.0,48.0
-38186,True,Buono stato / Abitabile,,45.4276,12.3633,3.51,,1.0,,1.0,,3.0,3.0,1.0,90.0
 36895,True,Buono stato / Abitabile,2006.0,41.904,12.6624,,,3.0,,1.0,1.0,5.0,2.0,1.0,55.0
 55693,True,Buono stato / Abitabile,,45.4805,9.126382,,,-1.0,,3.0,1.0,,6.0,1.0,292.0
 17288,,Ottimo / Ristrutturato,1900.0,41.9125,12.4998,175.0,120.0,5.0,,2.0,1.0,5.0,3.0,1.0,123.0
@@ -13374,7 +13336,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 40461,,Buono stato / Abitabile,1930.0,45.4667,9.1513,,,4.0,,1.0,,4.0,2.0,1.0,48.0
 3919,,Buono stato / Abitabile,,45.4403068,12.3224317,222.25,,1.0,,2.0,1.0,,5.0,1.0,160.0
 8073,True,Buono stato / Abitabile,1962.0,41.7897,12.43033,,,2.0,True,4.0,,,1.0,1.0,420.0
-58208,,Ottimo / Ristrutturato,1950.0,45.462,9.2334,105.36,0.0,6.0,True,1.0,,6.0,4.0,1.0,110.0
 48227,True,Buono stato / Abitabile,,45.503028,12.275186,,166.0,,,1.0,1.0,,4.0,1.0,90.0
 57076,True,Ottimo / Ristrutturato,1980.0,41.9686,12.5182,175.0,63.0,2.0,True,2.0,1.0,5.0,4.0,1.0,110.0
 24897,,Ottimo / Ristrutturato,1970.0,41.8583,12.4186,175.0,50.0,0.0,True,1.0,1.0,5.0,3.0,1.0,65.0
@@ -13563,7 +13524,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 58618,True,Da ristrutturare,1950.0,41.8601,12.5636,175.0,50.0,2.0,,1.0,1.0,6.0,3.0,1.0,95.0
 24491,True,Buono stato / Abitabile,2015.0,41.8232,12.4495,3.51,100.0,0.0,True,1.0,1.0,6.0,3.0,1.0,75.0
 48017,True,Nuovo / Nuova costruzione,2022.0,45.485002,12.209007,,60.0,-1.0,,2.0,,,4.0,1.0,122.0
-35273,,Buono stato / Abitabile,1967.0,45.46439,9.092679,,67.0,-1.0,,1.0,,,1.0,0.9984369102766086,40.0
 22396,True,Ottimo / Ristrutturato,1900.0,41.907,12.4779,175.0,,5.0,,1.0,1.0,5.0,2.0,1.0,53.0
 60074,,Ottimo / Ristrutturato,1965.0,45.5147,9.2053,175.0,,8.0,True,2.0,1.0,8.0,3.0,1.0,75.0
 32458,,Buono stato / Abitabile,,45.415869,9.24054,,,,,2.0,,,4.0,1.0,76.0
@@ -13965,7 +13925,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 12057,True,Buono stato / Abitabile,,41.91074,12.546665,,,4.0,,1.0,1.0,,3.0,1.0,105.0
 15903,True,Buono stato / Abitabile,1970.0,45.4493,12.1999,,,0.0,True,,,2.0,5.0,1.0,280.0
 56798,True,Ottimo / Ristrutturato,1930.0,45.4819,9.1458,175.0,20.0,5.0,,1.0,,5.0,2.0,1.0,50.0
-5710,,Ottimo / Ristrutturato,1900.0,41.9085,12.4531,175.0,91.0,2.0,,1.0,1.0,5.0,3.0,1.0,60.0
 30547,,Buono stato / Abitabile,1880.0,41.8983,12.5031,3.51,600.0,1.0,,2.0,1.0,6.0,4.0,1.0,120.0
 30481,True,Buono stato / Abitabile,1960.0,45.4979,12.2406,,250.0,2.0,,2.0,1.0,,4.0,1.0,135.0
 50230,,Buono stato / Abitabile,1900.0,41.888663,12.498186,,30.0,1.0,,1.0,,,2.0,1.0,47.0
@@ -14283,7 +14242,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 47803,,Da ristrutturare,,45.4367192,12.3234935,,,1.0,,1.0,0.0,,5.0,1.0,140.0
 39590,True,Buono stato / Abitabile,,45.527293,9.163776,,,2.0,,1.0,,,2.0,1.0,57.0
 36388,True,Ottimo / Ristrutturato,1960.0,41.8693,12.3547,,10.0,2.0,,2.0,,2.0,4.0,1.0,135.0
-44109,,Buono stato / Abitabile,,41.863521,12.646164,,,,,1.0,,,7.0,1.0,124.0
 65358,True,Buono stato / Abitabile,1969.0,41.791033,12.445676,,46.0,7.0,,1.0,1.0,,6.0,1.0,100.0
 49600,,Buono stato / Abitabile,,41.734299,12.354193,,,-1.0,,1.0,,,3.0,0.981838375641427,15.0
 48340,True,Buono stato / Abitabile,,41.837935,12.343978,,,1.0,True,1.0,,,3.0,1.0,90.0
@@ -14767,7 +14725,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 18242,True,Ottimo / Ristrutturato,2013.0,45.4568,9.2002,65.0,100.0,3.0,,1.0,1.0,5.0,2.0,1.0,60.0
 22821,True,Buono stato / Abitabile,1960.0,41.8574,12.5614,175.0,0.0,3.0,,1.0,,4.0,3.0,1.0,100.0
 6973,True,Nuovo / Nuova costruzione,2020.0,45.5302,9.172770000000002,50.5,0.0,2.0,,2.0,,8.0,4.0,1.0,
-21099,True,Buono stato / Abitabile,1960.0,41.931154,12.519117,,,1.0,,2.0,1.0,,6.0,1.0,150.0
 42661,True,Ottimo / Ristrutturato,1965.0,45.491,9.1565,175.0,,5.0,,,1.0,5.0,2.0,1.0,63.0
 60809,,Nuovo / Nuova costruzione,2022.0,45.505,9.2418,83.0,100.0,3.0,True,1.0,,3.0,2.0,1.0,50.0
 41619,True,Nuovo / Nuova costruzione,2015.0,41.7983,12.4203,175.0,60.0,0.0,True,3.0,,1.0,4.0,1.0,130.0
@@ -14879,7 +14836,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 54218,,Ottimo / Ristrutturato,,41.9271,12.4806,175.0,,3.0,,2.0,1.0,8.0,3.0,1.0,100.0
 14191,True,Buono stato / Abitabile,,45.4378015,12.3203718,,,,,1.0,0.0,,6.0,1.0,140.0
 50848,True,Buono stato / Abitabile,,45.4507767,9.1393003,202.0,,1.0,,1.0,1.0,,2.0,1.0,90.0
-36943,True,Buono stato / Abitabile,1952.0,41.9063,12.4459,175.0,0.0,3.0,,2.0,1.0,7.0,4.0,1.0,130.0
 51754,,Buono stato / Abitabile,,41.8596,12.5648,,0.0,1.0,,1.0,,5.0,3.0,1.0,75.0
 47827,True,Buono stato / Abitabile,1920.0,45.4635,9.1881,97.72,300.0,3.0,,1.0,1.0,5.0,2.0,1.0,70.0
 35083,True,Buono stato / Abitabile,1970.0,41.904438,12.547397,,118.0,5.0,,1.0,1.0,,2.0,1.0,67.0
@@ -14958,7 +14914,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 32673,True,Da ristrutturare,1960.0,45.453422,9.153769,,,1.0,,2.0,1.0,,4.0,1.0,115.0
 47296,True,Ottimo / Ristrutturato,1800.0,45.4546,9.1804,175.58,135.0,4.0,,2.0,1.0,4.0,3.0,1.0,131.0
 40172,,Nuovo / Nuova costruzione,2005.0,41.897178,12.607471,,35.0,-1.0,,1.0,1.0,,2.0,1.0,45.0
-50934,,Ottimo / Ristrutturato,2014.0,45.4561,12.1812,175.0,0.0,0.0,True,3.0,,2.0,5.0,0.964254401245738,300.0
 58014,True,Nuovo / Nuova costruzione,1960.0,41.8824,12.5868,175.0,50.0,1.0,True,1.0,1.0,7.0,3.0,1.0,63.0
 27280,,Nuovo / Nuova costruzione,1956.0,45.4504,9.2112,3.51,,6.0,,1.0,1.0,6.0,2.0,1.0,45.0
 36182,True,,1960.0,41.9694,12.4388,175.0,70.0,2.0,,1.0,,2.0,2.0,1.0,45.0
@@ -15701,7 +15656,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 362,,Buono stato / Abitabile,1700.0,45.465862,9.179073,,360.0,1.0,,3.0,1.0,,4.0,1.0,181.0
 13237,True,Ottimo / Ristrutturato,,45.48565674,12.24688625,250.0,70.0,2.0,True,2.0,1.0,,3.0,1.0,100.0
 52649,True,Da ristrutturare,1981.0,41.8748,12.6288,175.0,,4.0,,2.0,1.0,5.0,3.0,1.0,82.0
-31564,True,Ottimo / Ristrutturato,1960.0,41.9197,12.4193,175.0,65.0,0.0,True,1.0,1.0,4.0,3.0,1.0,90.0
 19067,True,Nuovo / Nuova costruzione,,41.9083,12.3948,175.0,,2.0,,2.0,1.0,3.0,3.0,1.0,85.0
 61967,True,Ottimo / Ristrutturato,1960.0,45.4911,9.2193,104.32,415.0,6.0,True,2.0,1.0,8.0,4.0,1.0,190.0
 16402,,Buono stato / Abitabile,,41.729216,12.364356,,,-1.0,,2.0,,,4.0,0.9785014594403963,120.0
@@ -15792,7 +15746,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 35283,True,Buono stato / Abitabile,,45.4986329,9.1983482,223.78,,3.0,,4.0,1.0,,5.0,1.0,335.0
 54323,,Buono stato / Abitabile,,45.4338757,12.3274979,186.45,,4.0,,1.0,0.0,,3.0,1.0,70.0
 62081,,Buono stato / Abitabile,,41.916563,12.471566,,,,,2.0,1.0,,7.0,1.0,175.0
-42961,True,Buono stato / Abitabile,1970.0,41.8299,12.5668,175.0,150.0,1.0,True,1.0,,3.0,3.0,1.0,105.0
 7868,True,Buono stato / Abitabile,,41.781612,12.377479,,,-1.0,,1.0,,,2.0,1.0,56.0
 44086,True,Buono stato / Abitabile,1970.0,41.8627,12.5714,175.0,40.0,6.0,,1.0,1.0,7.0,2.0,1.0,68.0
 6222,True,Da ristrutturare,,45.4790558,9.2076165,175.0,,1.0,,1.0,1.0,,4.0,1.0,110.0
@@ -15828,7 +15781,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 51004,,Ottimo / Ristrutturato,1960.0,45.5018,9.2372,175.0,175.0,6.0,,1.0,1.0,6.0,3.0,1.0,66.0
 29529,True,Ottimo / Ristrutturato,1957.0,41.878,12.5163,175.0,39.0,4.0,,2.0,1.0,5.0,5.0,1.0,210.0
 35036,,Da ristrutturare,1960.0,45.4697,9.139,175.0,208.0,0.0,,1.0,1.0,6.0,2.0,1.0,46.0
-12438,,,,45.4637,9.1928,,,0.0,,,,,,1.0,150.0
 48644,True,Buono stato / Abitabile,2021.0,41.920808,12.480189,,100.0,,True,6.0,,,1.0,1.0,0.0
 65362,True,Nuovo / Nuova costruzione,1983.0,45.5153,12.2103,,50.0,0.0,True,2.0,,3.0,4.0,0.9067307141369556,127.0
 47832,True,Buono stato / Abitabile,2000.0,41.724855,12.503812,,1.0,-1.0,,1.0,,,2.0,1.0,58.0
@@ -15883,7 +15835,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 26975,True,,1993.0,41.949,12.6019,175.0,90.0,4.0,,2.0,1.0,4.0,3.0,1.0,85.0
 32485,True,Buono stato / Abitabile,1960.0,45.492033,9.148196,,1000.0,4.0,,1.0,1.0,,2.0,1.0,57.0
 24544,,Buono stato / Abitabile,1600.0,45.436,12.3359,3.51,,3.0,,1.0,1.0,4.0,4.0,1.0,50.0
-27846,True,Nuovo / Nuova costruzione,1970.0,41.916853,12.409067,,60.0,1.0,,1.0,1.0,,3.0,1.0,84.0
 62573,,Da ristrutturare,1950.0,41.9306,12.3617,175.0,,0.0,True,3.0,,2.0,5.0,1.0,200.0
 2992,True,Buono stato / Abitabile,,41.7937389,12.4906951,,,7.0,,1.0,1.0,,2.0,1.0,49.0
 15877,True,Ottimo / Ristrutturato,1900.0,45.4543,9.1801,175.0,166.0,0.0,,1.0,,3.0,3.0,1.0,110.0
@@ -15905,7 +15856,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 33658,,Buono stato / Abitabile,1954.0,41.932,12.5381,175.0,15.0,5.0,True,1.0,,5.0,3.0,1.0,60.0
 53644,True,Buono stato / Abitabile,1970.0,45.39176,12.353007,,,,True,3.0,,,9.0,1.0,250.0
 46885,,Buono stato / Abitabile,1900.0,45.476635,9.200971,,625.0,4.0,,3.0,1.0,,5.0,1.0,180.0
-1877,,Buono stato / Abitabile,,45.426708,12.32511,,,-1.0,True,1.0,1.0,,4.0,1.0,100.0
 26707,True,Buono stato / Abitabile,1955.0,41.883,12.5695,175.0,25.0,3.0,True,1.0,,4.0,1.0,1.0,38.0
 23172,True,Buono stato / Abitabile,,45.468411,9.198697,,,1.0,,1.0,1.0,,2.0,1.0,70.0
 7119,True,Buono stato / Abitabile,,45.5109387,9.2246443,175.3,,2.0,,1.0,0.0,,3.0,1.0,70.0
@@ -15954,7 +15904,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 21847,True,Buono stato / Abitabile,1960.0,45.469237,9.132241,,200.0,1.0,,1.0,1.0,,3.0,1.0,95.0
 65894,True,Buono stato / Abitabile,1960.0,41.9449,12.5368,175.0,60.0,1.0,,1.0,1.0,4.0,3.0,1.0,87.0
 53517,True,Nuovo / Nuova costruzione,2022.0,41.7858,12.333,175.0,0.0,0.0,True,3.0,,3.0,4.0,1.0,90.0
-48676,True,Nuovo / Nuova costruzione,2023.0,41.8982,12.5179,,,2.0,,1.0,1.0,7.0,2.0,1.0,50.0
 12836,,Buono stato / Abitabile,,41.857858,12.514884,,1.0,-1.0,,2.0,,,6.0,1.0,230.0
 16851,True,Nuovo / Nuova costruzione,1800.0,41.89400101,12.4907999,175.0,,3.0,,,,1.0,5.0,1.0,500.0
 5400,,Buono stato / Abitabile,,45.4749112,9.1839319,175.13,,4.0,,2.0,1.0,,5.0,1.0,195.0
@@ -16318,7 +16267,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 2614,True,Buono stato / Abitabile,1700.0,41.897906,12.472844,,100.0,-1.0,,1.0,1.0,,4.0,1.0,216.0
 33542,True,Buono stato / Abitabile,,45.4586586,12.3546194,1.0,,2.0,,1.0,0.0,,4.0,1.0,60.0
 4992,True,Buono stato / Abitabile,1966.0,41.9107,12.5457,175.0,70.0,7.0,,1.0,1.0,7.0,3.0,1.0,80.0
-53524,True,Buono stato / Abitabile,,45.4904051,9.2349099,292.03,,-1.0,,1.0,1.0,,3.0,1.0,84.0
 9802,,Buono stato / Abitabile,,41.953871,12.478882,,,1.0,,1.0,,,4.0,1.0,692.0
 4742,True,Buono stato / Abitabile,1979.0,45.45908,9.109424,,190.0,1.0,True,2.0,1.0,,4.0,1.0,105.0
 32202,True,Ottimo / Ristrutturato,1960.0,45.4614,9.1985,3.51,208.0,2.0,,1.0,1.0,4.0,2.0,1.0,57.0
@@ -16798,7 +16746,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 45565,True,Buono stato / Abitabile,,45.4948063,12.4158546,,,3.0,True,2.0,,,5.0,1.0,60.0
 25169,True,Buono stato / Abitabile,,45.4711443,9.1501493,3.51,,1.0,,1.0,1.0,,2.0,1.0,70.0
 45858,True,Nuovo / Nuova costruzione,,41.9746075,12.5366564,45.0,,1.0,,1.0,1.0,,2.0,1.0,44.0
-61856,True,Buono stato / Abitabile,1970.0,45.513105,9.114753,,183.0,-1.0,,2.0,,,4.0,0.9742809712460946,145.0
 37156,True,Buono stato / Abitabile,1957.0,41.8616,12.5591,175.0,1.0,7.0,True,1.0,1.0,7.0,2.0,1.0,67.0
 5067,True,Buono stato / Abitabile,,45.4338349,12.3339531,153.16,,1.0,,1.0,0.0,,3.0,1.0,76.0
 38003,,Buono stato / Abitabile,,45.4286478,12.3611989,,,1.0,,3.0,,,4.0,1.0,96.0
@@ -17085,7 +17032,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 2029,True,Buono stato / Abitabile,1960.0,41.9414,12.5532,175.0,70.0,2.0,,1.0,1.0,5.0,2.0,1.0,70.0
 60771,True,Da ristrutturare,1926.0,41.9141,12.4638,175.0,167.0,3.0,True,2.0,1.0,4.0,5.0,1.0,180.0
 61051,True,Ottimo / Ristrutturato,1960.0,45.4837,12.2404,175.0,170.0,3.0,,2.0,1.0,8.0,4.0,1.0,121.0
-40567,,Nuovo / Nuova costruzione,1960.0,45.4572,9.1634,133.75,125.0,6.0,True,1.0,1.0,6.0,2.0,1.0,46.0
 21028,,Buono stato / Abitabile,,41.7374,12.3502,175.0,,3.0,True,3.0,,3.0,4.0,0.9874688476250204,190.0
 23878,,Buono stato / Abitabile,1950.0,41.880072,12.503253,,30.0,-1.0,,1.0,1.0,,2.0,1.0,67.0
 28461,,Ottimo / Ristrutturato,1970.0,45.4337,9.17858,175.0,250.0,3.0,True,1.0,1.0,7.0,2.0,1.0,55.0
@@ -17457,7 +17403,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 30646,True,Buono stato / Abitabile,1960.0,41.9497,12.4719,,60.0,2.0,,2.0,1.0,5.0,2.0,1.0,90.0
 52593,,Buono stato / Abitabile,1940.0,45.473438,9.195588,,600.0,,,3.0,1.0,,5.0,1.0,180.0
 56090,True,Buono stato / Abitabile,2011.0,45.5084,9.13079,175.0,40.0,2.0,,1.0,,2.0,2.0,1.0,50.0
-18840,True,Buono stato / Abitabile,1955.0,41.8865,12.5619,175.0,90.0,8.0,,1.0,1.0,8.0,3.0,1.0,114.0
 21478,True,Ottimo / Ristrutturato,,45.51679993,9.22869968,40.04,,0.0,,,,4.0,5.0,1.0,611.0
 11865,True,Buono stato / Abitabile,1980.0,41.8652,12.5876,175.0,70.0,0.0,True,2.0,1.0,8.0,5.0,1.0,140.0
 59157,True,,1970.0,41.8982,12.3954,175.0,31.0,1.0,,1.0,,3.0,3.0,1.0,70.0
@@ -18032,7 +17977,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 15908,,Buono stato / Abitabile,,45.4325806,12.3235155,,,-1.0,,2.0,0.0,,5.0,1.0,175.0
 54752,True,Buono stato / Abitabile,,45.4748,9.15381,186.76,325.0,2.0,,1.0,1.0,5.0,3.0,1.0,86.0
 2507,True,Nuovo / Nuova costruzione,,45.480754,9.131436,,830.0,2.0,True,3.0,1.0,,5.0,1.0,230.0
-17640,True,Nuovo / Nuova costruzione,2005.0,41.748314,12.335389,,,3.0,,3.0,,,6.0,1.0,200.0
 10601,True,Nuovo / Nuova costruzione,1970.0,41.881246,12.562817,,50.0,4.0,,1.0,,,3.0,1.0,81.0
 31242,True,Buono stato / Abitabile,,45.494128,9.215469,,,,,1.0,1.0,,4.0,1.0,52.0
 27018,,Buono stato / Abitabile,,45.4408521,9.1549209,100.0,,-1.0,,2.0,0.0,,3.0,1.0,65.0
@@ -18434,7 +18378,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 42790,,,,45.5189,9.15619,,50.0,-1.0,,1.0,,,2.0,1.0,55.0
 51702,True,Nuovo / Nuova costruzione,1998.0,45.503168,12.250509,,,2.0,,2.0,1.0,,4.0,1.0,130.0
 8045,True,Da ristrutturare,1980.0,41.8626,12.6847,189.0,0.0,0.0,True,1.0,,3.0,5.0,1.0,250.0
-16531,,Da ristrutturare,1930.0,41.921,12.4945,,50.0,5.0,True,1.0,,5.0,3.0,1.0,87.0
 58583,True,Nuovo / Nuova costruzione,1980.0,41.848043,12.460491,,50.0,7.0,,1.0,1.0,,3.0,1.0,75.0
 38120,True,Buono stato / Abitabile,1965.0,45.505026,9.183527,,250.0,7.0,,1.0,1.0,,3.0,1.0,135.0
 8943,True,Buono stato / Abitabile,1980.0,42.098397,12.354789,,,2.0,,1.0,,,3.0,0.8048032377809161,100.0
@@ -19005,7 +18948,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 40887,True,Nuovo / Nuova costruzione,2022.0,41.9532,12.5611,3.51,125.0,2.0,,2.0,1.0,7.0,4.0,1.0,94.0
 35164,True,Ottimo / Ristrutturato,1969.0,41.90737152,12.4233799,,120.0,3.0,,1.0,,5.0,3.0,1.0,70.0
 11706,True,Buono stato / Abitabile,,41.7348,12.2868,,,2.0,,1.0,,4.0,3.0,0.844826235049449,70.0
-7829,,Buono stato / Abitabile,1920.0,45.4267,9.2509,1.0,50.0,1.0,,1.0,,4.0,1.0,1.0,34.0
 27277,,Buono stato / Abitabile,1960.0,41.923974,12.437598,,,-1.0,,1.0,1.0,,2.0,1.0,42.0
 10153,,Buono stato / Abitabile,,45.4971,9.15235,250.25,,3.0,,1.0,,,2.0,1.0,50.0
 59759,,Buono stato / Abitabile,,45.43286514,12.33857155,,,,,,,,,1.0,720.0
@@ -19186,7 +19128,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 63037,True,Nuovo / Nuova costruzione,2021.0,45.5309,12.1848,,0.0,1.0,,2.0,1.0,5.0,4.0,0.7505270593038498,98.0
 27537,True,Nuovo / Nuova costruzione,2021.0,41.8156,12.4689,,,0.0,True,1.0,1.0,9.0,2.0,1.0,
 29579,,Nuovo / Nuova costruzione,1950.0,45.459392,9.185009,,100.0,1.0,,1.0,1.0,,1.0,1.0,40.0
-45733,,Buono stato / Abitabile,,45.500428,9.149713,,,5.0,,1.0,1.0,,3.0,1.0,102.0
 35169,True,Buono stato / Abitabile,,41.8447,12.4817,175.0,,3.0,,2.0,1.0,5.0,4.0,1.0,120.0
 35653,,Ottimo / Ristrutturato,1900.0,45.4758,9.2046,3.51,250.0,1.0,,2.0,1.0,5.0,3.0,1.0,96.0
 29732,True,Buono stato / Abitabile,1950.0,41.8849,12.577,175.0,45.0,1.0,True,1.0,,2.0,3.0,1.0,73.0
@@ -19598,7 +19539,6 @@ id,balcony,conditions,construction_year,latitude,longitude,energy_efficiency,exp
 51603,True,Buono stato / Abitabile,,41.808435,12.483832,,97.0,7.0,,2.0,1.0,,4.0,1.0,125.0
 1478,True,Buono stato / Abitabile,,41.86183,12.467386,,95.0,-1.0,,2.0,1.0,,4.0,1.0,160.0
 61124,,Ottimo / Ristrutturato,1940.0,45.477,9.149,84.03,100.0,5.0,,1.0,,5.0,3.0,1.0,86.0
-3072,,Buono stato / Abitabile,1920.0,41.8961,12.4401,175.0,30.0,6.0,,2.0,,6.0,2.0,1.0,70.0
 9641,True,Nuovo / Nuova costruzione,2018.0,41.8495,12.6701,,50.0,1.0,True,1.0,,3.0,3.0,1.0,66.0
 49541,,Nuovo / Nuova costruzione,1970.0,45.452704,9.218944,,60.0,-1.0,True,1.0,1.0,,2.0,1.0,45.0
 59732,,Nuovo / Nuova costruzione,2021.0,41.8625,12.5812,175.0,,0.0,,2.0,1.0,2.0,3.0,1.0,105.0
